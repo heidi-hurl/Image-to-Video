@@ -1,0 +1,5 @@
+{
+  "name": "Vid",
+  "description": "An application that generates a short video based on a user-uploaded image and a text prompt, utilizing the Gemini API for video generation.",
+  "requestFramePermissions": []
+}
